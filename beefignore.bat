@@ -1,0 +1,1 @@
+powershell -Command "Invoke-WebRequest https://raw.githubusercontent.com/github/gitignore/main/community/Beef.gitignore -OutFile .gitignore"
